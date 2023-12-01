@@ -1,3 +1,0 @@
-Esta entrega básicamente trata de acceder a phrase.html despues de realizar el log in en login.html. Se genera un token y se envia al front end, pero no logre que pueda acceder el token desde el servidor. Intenté de varias formas pero no lo pude lograr. Lo que hice para que "funcione" fue generar una variable global en el servidor que guarde el valor del token, y utilizar este en el middleware.
-
-Gracias por la comprensión :)
